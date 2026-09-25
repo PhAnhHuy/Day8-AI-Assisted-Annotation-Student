@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0107.jpg,xe đèn đỏ giữa đường bị gán chồng lên nhau,edited,Thấy đèn xe và đủ ranh giới
+1,frame_0227.jpg,xe đèn trắng góc trái bị gán chồng lên nhau,edited,Thấy đèn xe và đủ ranh giới
+1,frame_0270.jpg,xe tải bị thiếu,added,Xe thuộc quy tắc gán nhãn trong guideline
